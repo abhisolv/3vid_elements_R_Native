@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/avirus/.gradle/caches/transforms-2/files-2.1/376ff8dbfaba3a13a4d64a9d92738689/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/avirus/.gradle/caches/transforms-2/files-2.1/22f47cf12954d76db37f28a380b7e46d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/avirus/.gradle/caches/transforms-2/files-2.1/f346919851bc85e8b593e9f7ea7e3cba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/38d5f4fe960b191695da6c5254790a43/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/2264f2fbb892e30671d295dff2561d2d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4a4064300244c88e7e1647336a60e69c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0f7d623fcb333a8bce7b348d1d5dbf27/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/d306dfb338c7444a03d195cdf9a9b420/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4670e8eeef32602c797fcc8f2a288e65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/09a39ee7011948068dfb2a28d2ab897f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/5988a83364e77e6504b3271e22e4da71/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/bbdf0b23ee59315d32f6ea492b470042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/avirus/.gradle/caches/transforms-2/files-2.1/dae2b241271400554aab0fab4e043a87/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/d7e05d6c97cc8d76ad4fd01ba698820b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c45be381f4558146d8ab0b88a6357161/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/7ed8bb3a71b2c3d41a19e36a27c53a2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0974298b931b38000344619a03713236/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/a6b08186d489fd3471080cb817950dfd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/3ad34e9c8431c0ccdc7a50bc0bd22316/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/ed29503ac7e9521dd2988365cac1d943/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/61ae8a4d1d3c34169fb90048022d4d0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c8b1d58624d937cc9e85f3a9f4c1a2ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/2c17c2b0350aee54793144429504b4be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4c8832d255d0a6e8c703bda7ac19ae44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c98600748f41480896babbde87529204/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fb728f7c3b01e16c74ec024a31a6b51b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c68d2a71e689c2bf68d3ea220429faab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fe92e4a6f4d97a1986d2efff1e791a1d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/db6069ea0e7ace9de05dad9152892b27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/b8949d306072054603c30b186a753c25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c176d52be51ca4e0e7dd65ae6e81daf0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/a6622f65d2b0fdd690285b39a5521b30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/19b9faa877e369e6498ea0372fcfacf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fa3d5c52ce650bd55e5b79071731a225/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/7ace16d72eb0d2c08bc866088fd863d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/54fece3f7fabaae10ccc82b893f2e4e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/688663bd069704ae58be300b786a7219/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0b65f756d3f5681827ec865be1120651/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/521231b122f0d95d583f327a9bbedb8a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/avirus/.gradle/caches/transforms-2/files-2.1/376ff8dbfaba3a13a4d64a9d92738689/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/avirus/.gradle/caches/transforms-2/files-2.1/376ff8dbfaba3a13a4d64a9d92738689/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/5988a83364e77e6504b3271e22e4da71/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/5988a83364e77e6504b3271e22e4da71/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c68d2a71e689c2bf68d3ea220429faab/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c68d2a71e689c2bf68d3ea220429faab/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fe92e4a6f4d97a1986d2efff1e791a1d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fe92e4a6f4d97a1986d2efff1e791a1d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c68d2a71e689c2bf68d3ea220429faab/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnativevideo.MainActivity
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/avirus/Documents/WORK/ReactNativeVideo/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/avirus/.gradle/caches/transforms-2/files-2.1/376ff8dbfaba3a13a4d64a9d92738689/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/avirus/.gradle/caches/transforms-2/files-2.1/376ff8dbfaba3a13a4d64a9d92738689/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/avirus/.gradle/caches/transforms-2/files-2.1/22f47cf12954d76db37f28a380b7e46d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/avirus/.gradle/caches/transforms-2/files-2.1/22f47cf12954d76db37f28a380b7e46d/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/avirus/.gradle/caches/transforms-2/files-2.1/f346919851bc85e8b593e9f7ea7e3cba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/avirus/.gradle/caches/transforms-2/files-2.1/f346919851bc85e8b593e9f7ea7e3cba/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/38d5f4fe960b191695da6c5254790a43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/38d5f4fe960b191695da6c5254790a43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/2264f2fbb892e30671d295dff2561d2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/2264f2fbb892e30671d295dff2561d2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4a4064300244c88e7e1647336a60e69c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4a4064300244c88e7e1647336a60e69c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0f7d623fcb333a8bce7b348d1d5dbf27/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0f7d623fcb333a8bce7b348d1d5dbf27/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/d306dfb338c7444a03d195cdf9a9b420/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/d306dfb338c7444a03d195cdf9a9b420/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4670e8eeef32602c797fcc8f2a288e65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4670e8eeef32602c797fcc8f2a288e65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/09a39ee7011948068dfb2a28d2ab897f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/09a39ee7011948068dfb2a28d2ab897f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/5988a83364e77e6504b3271e22e4da71/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/5988a83364e77e6504b3271e22e4da71/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/bbdf0b23ee59315d32f6ea492b470042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/bbdf0b23ee59315d32f6ea492b470042/AndroidManifest.xml:20:5-44
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/avirus/.gradle/caches/transforms-2/files-2.1/dae2b241271400554aab0fab4e043a87/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/avirus/.gradle/caches/transforms-2/files-2.1/dae2b241271400554aab0fab4e043a87/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/d7e05d6c97cc8d76ad4fd01ba698820b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/d7e05d6c97cc8d76ad4fd01ba698820b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c45be381f4558146d8ab0b88a6357161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c45be381f4558146d8ab0b88a6357161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/7ed8bb3a71b2c3d41a19e36a27c53a2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/7ed8bb3a71b2c3d41a19e36a27c53a2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0974298b931b38000344619a03713236/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0974298b931b38000344619a03713236/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/a6b08186d489fd3471080cb817950dfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/a6b08186d489fd3471080cb817950dfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/3ad34e9c8431c0ccdc7a50bc0bd22316/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/3ad34e9c8431c0ccdc7a50bc0bd22316/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/ed29503ac7e9521dd2988365cac1d943/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/ed29503ac7e9521dd2988365cac1d943/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/61ae8a4d1d3c34169fb90048022d4d0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/61ae8a4d1d3c34169fb90048022d4d0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c8b1d58624d937cc9e85f3a9f4c1a2ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c8b1d58624d937cc9e85f3a9f4c1a2ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/2c17c2b0350aee54793144429504b4be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/2c17c2b0350aee54793144429504b4be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4c8832d255d0a6e8c703bda7ac19ae44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/4c8832d255d0a6e8c703bda7ac19ae44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c98600748f41480896babbde87529204/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c98600748f41480896babbde87529204/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fb728f7c3b01e16c74ec024a31a6b51b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fb728f7c3b01e16c74ec024a31a6b51b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c68d2a71e689c2bf68d3ea220429faab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c68d2a71e689c2bf68d3ea220429faab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fe92e4a6f4d97a1986d2efff1e791a1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fe92e4a6f4d97a1986d2efff1e791a1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/db6069ea0e7ace9de05dad9152892b27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/db6069ea0e7ace9de05dad9152892b27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/b8949d306072054603c30b186a753c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/b8949d306072054603c30b186a753c25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c176d52be51ca4e0e7dd65ae6e81daf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/c176d52be51ca4e0e7dd65ae6e81daf0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/a6622f65d2b0fdd690285b39a5521b30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/a6622f65d2b0fdd690285b39a5521b30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/19b9faa877e369e6498ea0372fcfacf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/19b9faa877e369e6498ea0372fcfacf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fa3d5c52ce650bd55e5b79071731a225/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/fa3d5c52ce650bd55e5b79071731a225/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/7ace16d72eb0d2c08bc866088fd863d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/7ace16d72eb0d2c08bc866088fd863d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/54fece3f7fabaae10ccc82b893f2e4e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/54fece3f7fabaae10ccc82b893f2e4e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/688663bd069704ae58be300b786a7219/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/688663bd069704ae58be300b786a7219/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0b65f756d3f5681827ec865be1120651/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/0b65f756d3f5681827ec865be1120651/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/521231b122f0d95d583f327a9bbedb8a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/avirus/.gradle/caches/transforms-2/files-2.1/521231b122f0d95d583f327a9bbedb8a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/avirus/Documents/WORK/ReactNativeVideo/android/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Tue Apr 06 00:36:15 IST 2021
+base.0=/Users/avirus/Documents/WORK/ReactNativeVideo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
