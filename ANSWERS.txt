@@ -1,0 +1,21 @@
+Assignment
+Q1. What's your favourite state management library for react and why?
+Ans - My favourite state management library is Redux, and i like to use it because in redux devtools it is easy to trace when,where,why and how the state of application changed which makes easy for me to trace the bug, but for developing some small apps redux is not preferrable because of its huge size.
+but if i am developing a small app or small site i will prefer to use Hookstate because its lightweight .and easy to use 
+Q2. Write some react native best practices.
+Ans-
+1- Classifying components
+	-Presentation components
+	-Container components
+2- Build seperate folder for components, assets.
+3- Key Of Each Element In List Should Be Unique
+4- Manage Static Image Resources for native ios and android usage
+5- Optimize React Native Images And Store It In Cloud Storage
+6- Once Project build completes lock Dependencies, Prevent The Breaking Changes
+Q3. Which coding style you prefer wet or dry and why?
+Ans- I prefer to use DRY method because i dont like to make multiple assets and components, it makes codebase and proejct lighter and faster 
+i dont use WET because it  make more project inodes which is not a good thing for Hosting server and project speed . 
+
+4. What do you prefer expo or vanilla react native and why?
+Ans- I prfer to use vanilla React native because it fully customizable, easy to debug, vast dev community supoort on git, medium and stackoverflow
+but in expo project specific things are avaliable i cant modify the libraries accordint to our need.
